@@ -4,12 +4,6 @@
 
 > Sou entusiasta em aprender coisas novas e extremamente dedicado.
 
-<br/>
-
-<p> Estudando na <b>Estácio</b> <br/> Estudante de <b>Ciência da Computação</b>. </p>
-
-<br/>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
